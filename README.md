@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamcalledchhoker
 - 👀 I’m interested in ..coding and data analaysis.
 - 🌱 I’m currently learning  cloud ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me .@iamcalledchhoker..
 
 <!---
